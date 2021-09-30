@@ -1,0 +1,11 @@
+﻿E:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (E:\University\CT4101_Semester_2_assignment\Static_library\obj\Debug\) contains files shared from another project (004_Static_Library.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MathUtil.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Random.cpp
+  Ray.cpp
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Generating Code...
+  Static_library.vcxproj -> E:\University\CT4101_Semester_2_assignment\Static_library\lib\Debug\libMath.lib
