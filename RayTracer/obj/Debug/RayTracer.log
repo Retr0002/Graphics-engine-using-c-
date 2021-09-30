@@ -1,0 +1,14 @@
+﻿E:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (E:\University\CT4101_Semester_2_assignment\RayTracer\obj\Debug\) contains files shared from another project (016_RayTracer_Materials.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  ColourRGB.cpp
+  DirectionalLIght.cpp
+E:\University\CT4101_Semester_2_assignment\RayTracer\source\DirectionalLIght.cpp(49,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Ellipsoid.cpp
+  Light.cpp
+  main.cpp
+E:\University\CT4101_Semester_2_assignment\RayTracer\source\main.cpp(102,22): warning C4244: 'argument': conversion from 'time_t' to 'const int', possible loss of data
+  Primitive.cpp
+  Random.cpp
+  Scene.cpp
+  Generating Code...
+  RayTracer.vcxproj -> E:\University\CT4101_Semester_2_assignment\RayTracer\bin\Debug\RayTracer.exe
